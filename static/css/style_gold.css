@@ -1,0 +1,69 @@
+body *{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 600px;
+}
+.container{
+    width: 600px;
+}
+.bding-container{
+    width: 600px;
+}
+.bding{
+    height: 150px;
+    width: 24%;
+    border: 1px solid lightsalmon;
+    text-align: center;
+    vertical-align: top;
+    display: inline-block;
+}
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+h3{
+    padding-top: 8px;
+    background-color: lightsalmon;
+    height: 30px;
+    vertical-align: top;
+}
+.bding p{
+    margin-top: 30px;
+    font-size: 9pt;
+}
+#fsub, #csub, #hsub, #ssub{
+    vertical-align: top;
+    margin-top: 40px;
+}
+p{
+    margin-top: 20px;
+    font-size: 11pt;
+}
+.activity{
+    width: 579px;
+    height: 120px;
+    border: 1px solid lightsalmon;
+    padding: 8px;
+    font-size: 11pt;
+    display: inline-block;
+    vertical-align: top;
+    overflow: scroll;
+}
+#resetfo{
+    width: 600px;
+    text-align: center;
+}
+#resetbtn{
+    width: 100px;
+    margin-top: 30px;
+    vertical-align: right;
+    display: inline-block;
+}
+.bgold{
+    color: salmon;
+    font-weight: bold;
+    font-size: 15pt;
+}
